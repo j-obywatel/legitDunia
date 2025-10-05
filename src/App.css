@@ -168,7 +168,7 @@ height: 96px;
   height: 167px;
   position: relative;
   border-radius: 25px;
-  background: center / cover no-repeat url("../public/images/zdjecie.JPG");
+  background: center / cover no-repeat url("../public/images/zdjecie.png");
 }
 
 .whitespace {
