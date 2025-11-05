@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/legitDunia/static/css/main.76e1076a.css",
+    "main.css": "/legitDunia/static/css/main.b58714a7.css",
     "main.js": "/legitDunia/static/js/main.beda3519.js",
     "static/js/453.db78677d.chunk.js": "/legitDunia/static/js/453.db78677d.chunk.js",
     "static/media/zdjecie.png": "/legitDunia/static/media/zdjecie.4d8b4baff08ebac0a8d2.png",
     "static/media/projekt.gif": "/legitDunia/static/media/projekt.802309c419ad3572cd16.gif",
-    "static/media/gorapol.png": "/legitDunia/static/media/gorapol.539b1a7cd01d70b012c6.png",
+    "static/media/gorapol1.png": "/legitDunia/static/media/gorapol1.df4a077d4027db69e53d.png",
     "static/media/goradol.png": "/legitDunia/static/media/goradol.1806135f6a3579c57331.png",
     "static/media/aaa.png": "/legitDunia/static/media/aaa.d63cb736fd419b726a41.png",
     "static/media/bodylegitki.png": "/legitDunia/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
@@ -15,12 +15,12 @@
     "static/media/tlo.png": "/legitDunia/static/media/tlo.6599770d4fce9dc5286c.png",
     "static/media/kropki.png": "/legitDunia/static/media/kropki.4711a56074343c2494fd.png",
     "index.html": "/legitDunia/index.html",
-    "main.76e1076a.css.map": "/legitDunia/static/css/main.76e1076a.css.map",
+    "main.b58714a7.css.map": "/legitDunia/static/css/main.b58714a7.css.map",
     "main.beda3519.js.map": "/legitDunia/static/js/main.beda3519.js.map",
     "453.db78677d.chunk.js.map": "/legitDunia/static/js/453.db78677d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76e1076a.css",
+    "static/css/main.b58714a7.css",
     "static/js/main.beda3519.js"
   ]
 }
