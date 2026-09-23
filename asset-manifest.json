@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/legitDunia/static/css/main.9370e436.css",
-    "main.js": "/legitDunia/static/js/main.d1a12a3b.js",
+    "main.css": "/legitDunia/static/css/main.7d8b26a6.css",
+    "main.js": "/legitDunia/static/js/main.8e2df4b1.js",
     "static/js/453.db78677d.chunk.js": "/legitDunia/static/js/453.db78677d.chunk.js",
     "static/media/zdjecie.png": "/legitDunia/static/media/zdjecie.4d8b4baff08ebac0a8d2.png",
     "static/media/flaga.gif": "/legitDunia/static/media/flaga.5d3b4b6b7e9dfc1eecbe.gif",
@@ -9,12 +9,12 @@
     "static/media/bodylegitki.png": "/legitDunia/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
     "static/media/legitkadol.png": "/legitDunia/static/media/legitkadol.bf49101e56cd878f00c8.png",
     "index.html": "/legitDunia/index.html",
-    "main.9370e436.css.map": "/legitDunia/static/css/main.9370e436.css.map",
-    "main.d1a12a3b.js.map": "/legitDunia/static/js/main.d1a12a3b.js.map",
+    "main.7d8b26a6.css.map": "/legitDunia/static/css/main.7d8b26a6.css.map",
+    "main.8e2df4b1.js.map": "/legitDunia/static/js/main.8e2df4b1.js.map",
     "453.db78677d.chunk.js.map": "/legitDunia/static/js/453.db78677d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9370e436.css",
-    "static/js/main.d1a12a3b.js"
+    "static/css/main.7d8b26a6.css",
+    "static/js/main.8e2df4b1.js"
   ]
 }
