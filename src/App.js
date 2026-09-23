@@ -3,11 +3,11 @@ import "./App.css";
 
 function App() {
   const [date, setDate] = useState(new Date());
-  const [isExpanded, setIsExpanded] = useState(false); // toggle state
 
   const myDate = date.toLocaleString("pl-PL", {
     minute: "numeric",
     hour: "2-digit",
+    second: "2-digit",
   });
   const mySecondDate = date.toLocaleString("pl-PL", {
     day: "2-digit",
@@ -25,29 +25,16 @@ function App() {
     };
   }, []);
 
-  // function to toggle class
-  const toggleUni = () => {
-    setIsExpanded((prev) => !prev);
-  };
-
   return (
     <>
-      <div className="gora"></div>
-      <div className="srodek">
-        <div className="projekt">
-          <div className="profil"></div>
-        </div>
-      </div>
-      <div
-        className={isExpanded ? "unirozw" : "uni"}
-        onClick={toggleUni}
-        style={{ cursor: "pointer" }}
-      />
-      <div className="bodydol">
+      <div className="gora" />
+      <div className="nowa">
         <div className="date">
-          {mySecondDate} {""}
-          {myDate}
+          Czas: {myDate} {""}
+          {mySecondDate}
         </div>
+        <div className="profil"></div>
+        <div className="projekt"></div>
       </div>
       <div className="dol" />
     </>
