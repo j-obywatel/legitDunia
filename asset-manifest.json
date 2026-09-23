@@ -1,26 +1,20 @@
 {
   "files": {
-    "main.css": "/legitDunia/static/css/main.5d187c73.css",
-    "main.js": "/legitDunia/static/js/main.beda3519.js",
+    "main.css": "/legitDunia/static/css/main.9370e436.css",
+    "main.js": "/legitDunia/static/js/main.d1a12a3b.js",
     "static/js/453.db78677d.chunk.js": "/legitDunia/static/js/453.db78677d.chunk.js",
     "static/media/zdjecie.png": "/legitDunia/static/media/zdjecie.4d8b4baff08ebac0a8d2.png",
-    "static/media/projekt.gif": "/legitDunia/static/media/projekt.802309c419ad3572cd16.gif",
-    "static/media/goradol.png": "/legitDunia/static/media/goradol.706d7aab01e3f963fa69.png",
-    "static/media/gorapol1.png": "/legitDunia/static/media/gorapol1.c396afec56f58acd862b.png",
-    "static/media/aaa.png": "/legitDunia/static/media/aaa.d63cb736fd419b726a41.png",
+    "static/media/flaga.gif": "/legitDunia/static/media/flaga.5d3b4b6b7e9dfc1eecbe.gif",
+    "static/media/nowa.png": "/legitDunia/static/media/nowa.3594fcab751bf8226aa1.png",
     "static/media/bodylegitki.png": "/legitDunia/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
-    "static/media/strzala.png": "/legitDunia/static/media/strzala.dff4a7ed4f128d5b534d.png",
-    "static/media/legitkadol.JPEG": "/legitDunia/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
-    "static/media/uczelnia.png": "/legitDunia/static/media/uczelnia.1a59dcfad19e645ed771.png",
-    "static/media/tlo.png": "/legitDunia/static/media/tlo.6599770d4fce9dc5286c.png",
-    "static/media/kropki.png": "/legitDunia/static/media/kropki.4711a56074343c2494fd.png",
+    "static/media/legitkadol.png": "/legitDunia/static/media/legitkadol.bf49101e56cd878f00c8.png",
     "index.html": "/legitDunia/index.html",
-    "main.5d187c73.css.map": "/legitDunia/static/css/main.5d187c73.css.map",
-    "main.beda3519.js.map": "/legitDunia/static/js/main.beda3519.js.map",
+    "main.9370e436.css.map": "/legitDunia/static/css/main.9370e436.css.map",
+    "main.d1a12a3b.js.map": "/legitDunia/static/js/main.d1a12a3b.js.map",
     "453.db78677d.chunk.js.map": "/legitDunia/static/js/453.db78677d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d187c73.css",
-    "static/js/main.beda3519.js"
+    "static/css/main.9370e436.css",
+    "static/js/main.d1a12a3b.js"
   ]
 }
