@@ -7,7 +7,7 @@
 
 .dol {
   background: center / cover no-repeat url("../public/images/legitkadol.png");
-  width: 428px;
+  width: 430px;
   height: 76px;
   margin-top: -15px;
 }
@@ -23,7 +23,7 @@
 
 .gora {
   background: center / cover no-repeat url("../public/images/legitka-gora.png");
-  width: 428px;
+  width: 430px;
   height: 60px;
 }
 
@@ -49,12 +49,12 @@
 
 .whitespace {
   background: center / cover no-repeat url("../public/images/tloo.png");
-  width: 428px;
-  height: 50px;
+  width: 430px;
+  height: 30px;
 }
 
 .nowa {
   background: center / cover no-repeat url("../public/images/nowa.png");
-  width: 428px;
+  width: 430px;
   height: 760px;
 }

@@ -27,6 +27,7 @@ function App() {
 
   return (
     <>
+      <div className="whitespace" />
       <div className="gora" />
       <div className="nowa">
         <div className="date">
